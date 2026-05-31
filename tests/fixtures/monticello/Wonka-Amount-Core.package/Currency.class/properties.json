@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "AuditedObject",
+	"category" : "Wonka-Amount-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"symbol",
+		"identifier",
+		"explanation",
+		"zeroMoney",
+		"fundamentalIdentifier"
+	],
+	"name" : "Currency",
+	"type" : "normal"
+}

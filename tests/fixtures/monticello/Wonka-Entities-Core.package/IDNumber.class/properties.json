@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ByteString",
+	"category" : "Wonka-Entities-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "IDNumber",
+	"type" : "bytes"
+}
