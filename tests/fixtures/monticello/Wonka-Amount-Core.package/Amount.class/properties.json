@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Number",
+	"category" : "Wonka-Amount-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"number"
+	],
+	"name" : "Amount",
+	"type" : "normal"
+}
